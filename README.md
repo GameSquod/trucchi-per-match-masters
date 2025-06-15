@@ -28,7 +28,7 @@
 <p>Il <strong>generatore Match Masters online</strong> è uno strumento innovativo, pensato proprio per aiutare i giocatori come te a ottenere tutto quello che serve per vincere senza limiti. Grazie a questo sistema, puoi ottenere in modo <strong>istantaneo e illimitato</strong>:</p>
 
 <ul>
-  <li><strong>Monete</strong> (coins): fondamentali per giocare partite e partecipare agli eventi.</li>
+  <li><strong>Monete</strong>: fondamentali per giocare partite e partecipare agli eventi.</li>
   <li><strong>Booster</strong>: per potenziare ogni mossa e dominare gli avversari.</li>
   <li><strong>Stelle</strong>: utilissime per sbloccare ricompense e livelli extra.</li>
 </ul>
